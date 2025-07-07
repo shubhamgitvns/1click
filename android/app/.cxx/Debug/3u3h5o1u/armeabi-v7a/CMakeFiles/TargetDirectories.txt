@@ -1,0 +1,2 @@
+C:/CODE/MAB/User One-Click/1click-user-app/android/app/.cxx/Debug/3u3h5o1u/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/CODE/MAB/User One-Click/1click-user-app/android/app/.cxx/Debug/3u3h5o1u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
