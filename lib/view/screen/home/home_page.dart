@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_tester/controller/authentication/login_provider.dart';
 import 'package:my_tester/utility/local_storage.dart';
+import 'package:my_tester/view/screen/home/whatsnew_page.dart';
 import 'package:my_tester/view/screen/home/xyz.dart';
 import 'package:provider/provider.dart';
 
@@ -66,6 +67,7 @@ class _HomePageState extends State<HomePage> {
               )),
             ),
             ExploreCollectionWidget(),
+            WhatsNew()
           ],
         ),
       ),
